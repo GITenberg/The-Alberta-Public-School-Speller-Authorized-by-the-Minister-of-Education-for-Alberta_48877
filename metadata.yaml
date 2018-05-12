@@ -1,4 +1,8 @@
 _repo: The-Alberta-Public-School-Speller-Authorized-by-the-Minister-of-Education-for-Alberta_48877
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48877-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48877#The-Alberta-Public-School-Speller-Authorized-by-the-Minister-of-Education-for-Alberta
 gutenberg_issued: '2015-05-04'
 gutenberg_type: Text
 identifiers:
